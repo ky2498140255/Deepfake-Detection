@@ -3,7 +3,5 @@ The repository contains the implementation of new methods for deepfake detection
 
 Contact
 For any inquiries or further information, please contact us at:
-
 Email: www.19102856453@163.com
-GitHub: kouyi
 Stay tuned for updates on our research and the full release of our code upon publication.
